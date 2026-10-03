@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # ai_snow
-# README
+# README File to run the steps
 
 ## Introduction
 This document provides instructions to run the code in this repository.
